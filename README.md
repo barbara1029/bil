@@ -28,7 +28,7 @@ Instale `numpy` no diretório pelo terminal
 pip install numpy
 ```
 #### Terceiro passo: **IMPORTANTE** 
-Entre no diretório do ficheiro woodblock_puzzle.py pelo terminal.
+Entre no diretório do ficheiro woodblock_puzzle.py pelo terminal
 ```
 cd (diretório da pasta)
 ```

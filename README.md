@@ -15,7 +15,7 @@ Trabalho realizado por:
 
 ******
 ### A CERCA DO PROJETO 
-No segundo semestre do primeiro ano da Licenciatura em Inteligência Artificial e Ciência de Dados, na Faculdade de Ciências da Universidade do Porto, fomos desafiados a desenvolver uma Inteligência Artificial capaz de jogar jogos-puzzzle, neste caso, um jogo para um jogador. O objetivo deste projeto passa por explorar algoritmos de busca informada, nomeadamente A* e Greedy Search, bem como algoritmos de busca não informada, tal como BFS e DFS. Estes métodos são aplicados com diferentes configurações e níveis de profundidade, sendo avaliados em função do seu desempenho em diferentes niveis de dificuldade e tipos de jogo.
+No segundo semestre do primeiro ano da Licenciatura em Inteligência Artificial e Ciência de Dados, na Faculdade de Ciências da Universidade do Porto, fomos desafiados a desenvolver uma Inteligência Artificial capaz de jogar jogos-puzzle, neste caso, um jogo para um jogador. O objetivo deste projeto passa por explorar algoritmos de busca informada, nomeadamente A* e Greedy Search, bem como algoritmos de busca não informada, tal como BFS e DFS. Estes métodos são aplicados com diferentes configurações e níveis de profundidade, sendo avaliados em função do seu desempenho em diferentes niveis de dificuldade e tipos de jogo.
 
 ## 🎮 Regras e funcionamento do jogo:
    - O objetivo é completar linhas e colunas no tabuleiro;

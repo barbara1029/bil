@@ -31,8 +31,8 @@ Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e
 - **👤 Humano** 
 - **A\*** 
 - **Greedy Search** 
-- **BFS (Busca em Largura)**
-- **DFS (Busca em Profundidade)**
+- **BFS**
+- **DFS**
 - **Estabilidade Dinâmica** (heurística original)
 - **Heurística da Cascata** (heurística original)
   

@@ -24,7 +24,7 @@ No segundo semestre do primeiro ano da Licenciatura em Inteligência Artificial 
    - Ao completar uma linha ou coluna, ela é eliminada;
    - O jogo termina quando nenhuma das 3 peças disponíveis couber nos espaços vazios do tabuleiro.
      
-Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e Blokus, onde o objetivo é posicionar peças geométricas em um tabuleiro para completar linhas e colunas. Com mecânicas simples mas desafiadoras, o jogo testa o planejamento espacial do jogador enquanto procura obter a maior pontuação possível. Sua versão digital traz algoritmos de IA, múltiplas dificuldades e um design clean com temática de madeira.
+Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e Blokus, onde o objetivo é posicionar peças geométricas em um tabuleiro para completar linhas e colunas. Com mecânicas simples mas desafiadoras, o jogo testa o planejamento espacial do jogador enquanto procura obter a maior pontuação possível. A sua versão digital traz algoritmos de IA, múltiplas dificuldades e um design clean com temática de madeira.
 
 ## 🧠 Modos de Jogo
 

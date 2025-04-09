@@ -16,7 +16,8 @@ Trabalho realizado por:
 ******
 ### A CERCA DO PROJETO 
 No segundo semestre do primeiro ano da Licenciatura em Inteligência Artificial e Ciência de Dados, na Faculdade de Ciências da Universidade do Porto, fomos desafiados a desenvolver uma Inteligência Artificial capaz de jogar jogos-puzzzle, neste caso, um jogo para um jogador. O objetivo deste projeto passa por explorar algoritmos de busca informada, nomeadamente A* e Greedy Search, bem como algoritmos de busca não informada, tal como BFS e DFS. Estes métodos são aplicados com diferentes configurações e níveis de profundidade, sendo avaliados em função do seu desempenho em diferentes niveis de dificuldade e tipos de jogo.
-REGRAS E FUNCIONAMENTO DO JOGO:
+
+## 🎮 Regras e funcionamento do jogo:
    - O objetivo é completar linhas e colunas no tabuleiro;
    - O jogador tem 3 peças disponíveis para colocar no tabuleiro;
    - Quando uma peça é colocada, uma nova é gerada;
@@ -25,9 +26,28 @@ REGRAS E FUNCIONAMENTO DO JOGO:
      
 Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e Blokus, onde o objetivo é posicionar peças geométricas em um tabuleiro para completar linhas e colunas. Com mecânicas simples mas desafiadoras, o jogo testa o planejamento espacial do jogador enquanto busca a maior pontuação possível. Sua versão digital traz algoritmos de IA, múltiplas dificuldades e um design clean com temática de madeira.
 
-## Como fazer o download e utilizar a interface  
+## 🧠 Modos de Jogo
+
+  **👤 Humano:** 
+  **A\* (A-Star):** .
+  **Greedy Search:** 
+  **BFS (Busca em Largura):**
+  **DFS (Busca em Profundidade):** 
+  **Estabilidade Dinâmica:** heurística original
+  **Heurística da Cascata:** heurística original
+  
+O modo de jogo é escolhido posteriormente à escolha do tamanho do tabuleiro: 5 por 5 ou 10 por 10; e da dificuldade: fácil, média ou difícil; pela ordem descrita.
+
+## Como fazer o download e utilizar a interface 
+
+## 🛠️ Requisitos do Sistema
+
+- **Python:** 3.8 ou superior  
+- **Pygame:** 2.1.0 ou superior
+- 
 #### Primeiro passo:
-Extraia o .zip da página github e descomprima o ficheiro
+Extraia o .zip da página github ou diretamente do moodle e descomprima o ficheiro
+
 #### Segundo passo: 
 Instale `numpy` no diretório pelo terminal 
 ```

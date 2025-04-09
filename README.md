@@ -28,19 +28,19 @@ Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e
 
 ### 🧠 Modos de Jogo
 
-  **👤 Humano:** 
-  **A\* (A-Star):** .
-  **Greedy Search:** 
-  **BFS (Busca em Largura):**
-  **DFS (Busca em Profundidade):** 
-  **Estabilidade Dinâmica:** heurística original
-  **Heurística da Cascata:** heurística original
+- **👤 Humano:** 
+- **A\* (A-Star):** .
+- **Greedy Search:** 
+- **BFS (Busca em Largura):**
+- **DFS (Busca em Profundidade):**
+- **Estabilidade Dinâmica:** heurística original
+- **Heurística da Cascata:** heurística original
   
 O modo de jogo é escolhido posteriormente à escolha do tamanho do tabuleiro: 5 por 5 ou 10 por 10; e da dificuldade: fácil, média ou difícil; pela ordem descrita.
 
-## Como fazer o download e utilizar a interface 
+## 🛠️ Como fazer o download e utilizar a interface 
 
-## 🛠️ Requisitos do Sistema
+### Requisitos do Sistema
 
 - **Python:** 3.8 ou superior  
 - **Pygame:** 2.1.0 ou superior

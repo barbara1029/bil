@@ -26,7 +26,7 @@ No segundo semestre do primeiro ano da Licenciatura em Inteligência Artificial 
      
 Woodblock Puzzle é um jogo de estratégia inspirado em clássicos como Tetris e Blokus, onde o objetivo é posicionar peças geométricas em um tabuleiro para completar linhas e colunas. Com mecânicas simples mas desafiadoras, o jogo testa o planejamento espacial do jogador enquanto procura obter a maior pontuação possível. A sua versão digital traz algoritmos de IA, múltiplas dificuldades e um design clean com temática de madeira.
 
-## 🧠 Modos de Jogo
+### 🧠 Modos de Jogo
 
   **👤 Humano:** 
   **A\* (A-Star):** .
@@ -44,7 +44,7 @@ O modo de jogo é escolhido posteriormente à escolha do tamanho do tabuleiro: 5
 
 - **Python:** 3.8 ou superior  
 - **Pygame:** 2.1.0 ou superior
-- 
+  
 #### Primeiro passo:
 Extraia o .zip da página github ou diretamente do moodle e descomprima o ficheiro
 

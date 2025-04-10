@@ -63,5 +63,5 @@ Corra o programa
 ```
 python3 woodblock_puzzle.py
 ```
-*****
-- No entanto, recomendamos a abertura do código do ficheiro no VSCODE de modo a não haver erros ao correr o código!
+### No entanto, recomendamos a abertura do código do ficheiro no VSCODE de modo a não haver erros ao correr o código!
+****
